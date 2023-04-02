@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Moritz Blum test"
+title                    : "Moritz Blum"
 title_separator          : "-"
-name                     : &name "Moritz Blum test"
+name                     : &name "Moritz Blum"
 description              : &description "Personal academic page"
 url                      : https://moritzblum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ph.D. Student"
-  avatar           : "test.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "bio-photo.jpg"
+  bio              : "SCG @ Bielefeld University"
+  location         : "Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
