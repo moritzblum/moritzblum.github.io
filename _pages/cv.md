@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Cognitive Computer Science, Bielefeld University, 2018
+* M.S. in Intelligent Systems, Bielefeld University, 2020
+* Erasmus Semester, Aarhus University, 2020
 
 Work experience
 ======

@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Induction of Joint Vector-space Embeddings from Heterogeneous Data Sources"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-a
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-10-27
+venue: 'ISWC-Doctoral Consortium 2022'
+paperurl: 'http://ceur-ws.org/Vol-3165/paper2.pdf'
+citation: 'Blum M. Induction of Joint Vector-space Embeddings from Heterogeneous Data Sources. In: Proceedings of the Doctoral Consortium at ISWC 2022. CEUR Workshop Proceedings. Vol 3165. Aachen: RWTH; 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Recent state-of-the-art approaches in Natural Language Processing and Graph Learning have shown to benefit from the combination of heterogeneous data sources, such as texts and graphs, as these can complement each other in terms of their content. Thus, in order to exploit the available complementary content, complex architectures need to be developed. In this context, semi-structured Knowledge Graphs, which consist of structured data (entities and relations) and unstructured data (literals), are an important information source. However, they are naturally incomplete, and at the same time often contain data of different data types as literals. My thesis proposes to jointly learn vector space embeddings from differently-structured sources to make the data accessible to established approaches without modification of their architecture. It is expected that data sources complement each other, which leads to reduced task training time and increased task performance and robustness. Applications range from Link Prediction in graphs to Named Entity Recognition. My thesis proposes two ways towards a jointly learned embedding space: one solution is to transform all data into a common representation before training, the other possibility is to combine the data during training through data type specific encoders or jointly optimized loss functions.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
