@@ -17,24 +17,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2021 - now: ***Ph.D. Student*** @ Semantic Computing Group (Bielefeld University, Germany)
+  * Topic: Joint representations for differently-structured data sources.
+  * Duties included: research on joint representations, ontology engineering for [DiProMag](https://www.dipromag.de), teaching (minor)
+  * Supervisor: Philipp Cimiano, Basil Ell
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Sep 2020 - Jan 2021: ***NLP Engineer*** @ Semalytix 
+  * information extraction of patientreported outcomes and adverse drug reactions from online drug reviews for real-world evidence generation
+
+* Dec 2018 - Jul 2020: ***Student Assistant*** @ Semantic Computing Group (Bielefeld University, Germany)
+
+* Jun 2016 - Aug 2019: ***Working Student*** @ Diebold Nixdorf Reasearch & Innovation Lab
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pytorch Geometric 
+* Hugging Face Transformers
+* Ray Tune
 
 Publications
 ======
