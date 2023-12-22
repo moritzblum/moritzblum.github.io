@@ -1,9 +1,12 @@
 ---
 title: "Supervised Bachelor's and Master's Thesis"
 collection: teaching
+type: "Thesis"
 permalink: /teaching/thesis
 venue: "Bielefeld University, Semantic Computing Group"
 ---
+
+The following list is an overview over the Bachelor's and Master's thesis I supervised. 
 
 Bachelor's Thesis  
 ======
