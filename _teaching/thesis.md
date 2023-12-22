@@ -3,6 +3,7 @@ title: "Supervised Bachelor's and Master's Thesis"
 collection: teaching
 type: "Thesis"
 permalink: /teaching/thesis
+date: 2023-12-22
 venue: "Bielefeld University, Semantic Computing Group"
 ---
 
